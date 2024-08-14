@@ -95,6 +95,14 @@ export const projectsData = {
   ],
   secondary: [
     {
+      name: "Colcllc Llc",
+      description: "A commercial website",
+      projectSectionId: "colcllc",
+      usedTechnologies: "Next Js, Paypal, Tailwind, Shadcn Ui",
+      demoLink: "https://colcllc.com",
+      id: 1,
+    },
+    {
       name: "Quick Chat",
       description: "Real time chat app",
       projectSectionId: "quick-chat",
