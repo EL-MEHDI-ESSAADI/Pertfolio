@@ -95,8 +95,8 @@ export const projectsData = {
   ],
   secondary: [
     {
-      name: "Colcllc Llc",
-      description: "A commercial website",
+      name: "Colcllc LLC",
+      description: "E-commerce site for crane operation products and accessories.",
       projectSectionId: "colcllc",
       usedTechnologies: "Next Js, Paypal, Tailwind, Shadcn Ui",
       demoLink: "https://colcllc.com",
